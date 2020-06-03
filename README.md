@@ -1,5 +1,5 @@
 
-See [link](https://personal-todo-f9d44.firebaseapp.com/) for the demo application .
+See [link](https://personal-todo-f9d44.firebaseapp.com/) for demo.
 ## Project setup
 ```
 npm install
